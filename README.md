@@ -4,7 +4,7 @@ This project demonstrates semantic image segmentation using a custom architectur
 
 ## Project Overview
 
-- The `main.ipynb` notebook contains the entire project pipeline, from data preprocessing to model training and evaluation.
+- The `u-net-on-carvana.ipynb` notebook contains the entire project pipeline, from data preprocessing to model training and evaluation.
 
 ## Prerequisites
 
@@ -18,15 +18,15 @@ This project demonstrates semantic image segmentation using a custom architectur
 
 ## Project Structure
 
-- `main.ipynb`: Jupyter Notebook containing the project code.
+- `u-net-on-carvana.ipynb`: Jupyter Notebook containing the project code.
 - `MobileNetV2_Unet_wts.pth`: Saved model weights.
 - `MobileNetV2_Unet_model.pth`: Saved entire model (architecture and weights).
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/yourusername/semantic-segmentation.git`
+1. Clone this repository: `git clone https://github.com/Rumit95/semantic-segmentation.git`
 2. Navigate to the project directory: `cd semantic-segmentation`
-3. Open `main.ipynb` using Jupyter Notebook or Jupyter Lab.
+3. Open `u-net-on-carvana.ipynb` using Jupyter Notebook or Jupyter Lab.
 4. Run each cell sequentially to execute the project steps.
 
 ## Usage
