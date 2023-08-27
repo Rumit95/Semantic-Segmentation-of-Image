@@ -34,6 +34,9 @@ This project demonstrates semantic image segmentation using a custom architectur
 - Follow the steps in the notebook to preprocess data, create the custom MobileNetV2 U-Net model, train the model, and visualize results.
 - You can modify hyperparameters, the number of training epochs, or experiment with different architectures to suit your needs.
 
+## Model Architecture
+- [Architecture](https://github.com/Rumit95/Semantic-Segmentation-of-Image/blob/6355edac8d0b2ae9fdcf4fc5d23ef9d1f38005de/graphviz.svg)
+
 ## Credits
 
 - The MobileNetV2 architecture is based on the original paper by Sandler et al. [https://arxiv.org/abs/1801.04381].
