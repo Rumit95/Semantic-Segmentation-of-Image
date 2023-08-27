@@ -1,4 +1,4 @@
-# Semantic Segmentation with MobileNetV2 U-Net
+# Semantic Segmentation with MobileNetV2 and U-Net
 
 This project demonstrates semantic image segmentation using a custom architecture that combines MobileNetV2 and U-Net. The goal is to accurately segment objects in images, showcasing a robust approach to image analysis.
 
