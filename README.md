@@ -41,7 +41,7 @@ This project demonstrates semantic image segmentation using a custom architectur
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 Feel free to reach out if you have any questions or suggestions!
 
