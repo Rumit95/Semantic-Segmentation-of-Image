@@ -24,7 +24,7 @@ This project demonstrates semantic image segmentation using a custom architectur
 
 ## Getting Started
 
-1. Clone this repository: `git clone [https://github.com/Rumit95/semantic-segmentation.git](https://github.com/Rumit95/Semantic-Segmentation-of-Image)`
+1. Clone this repository: `git clone https://github.com/Rumit95/Semantic-Segmentation-of-Image`
 2. Navigate to the project directory: `cd semantic-segmentation`
 3. Open `u-net-on-carvana.ipynb` using Jupyter Notebook or Jupyter Lab.
 4. Run each cell sequentially to execute the project steps.
