@@ -5,7 +5,7 @@ This project demonstrates semantic image segmentation using a custom architectur
 ## Project Overview
 
 - The `u-net-on-carvana.ipynb` notebook contains the entire project pipeline, from data preprocessing to model training and evaluation.
-- [Architecture](graphviz.svg)
+- [Architecture](model_architecture.svg)
 
 ## Prerequisites
 
